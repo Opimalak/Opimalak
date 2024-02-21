@@ -8,7 +8,7 @@
 ![](https://64.media.tumblr.com/452115a94309de388a764d1fd618c39f/tumblr_inline_p08wz4jeSI1qdiwz3_540.gif)
 # -⚪~sexualidade: Hetero
 ![](https://media.tenor.com/CFST52puBgYAAAAd/hollow-knight.gif)
-# -🥘~Comida Fav:  Queijo
+# -🥘~Comida Fav:  comestível
 ![](https://steamuserimages-a.akamaihd.net/ugc/1826772585313072382/F5C8BB0F64C9028DA04A32FB3945BE031E3E3B05/)
 # -🎮~game style fav: indie
 ![](https://media.tenor.com/g_jk1kI6mgkAAAAC/hollow-knight.gif)
