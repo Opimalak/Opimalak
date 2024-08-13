@@ -1,1 +1,1 @@
-'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-OHREI_SA8zeQX12SPLjnvbDZmESfrH16g&s" alt="Meu GIF" width="900">'
+'<img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="900">'
