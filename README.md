@@ -1,3 +1,4 @@
+'<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-OHREI_SA8zeQX12SPLjnvbDZmESfrH16g&s" alt="Meu GIF" width="300">'
 # Just-Me
 ![](https://media2.giphy.com/media/mIg1Ik3KYxy0WylN3W/giphy.gif?cid=6c09b95277z5ubfw5yvvlk6wkpmn7e6q7h9jivb7y6l3yx5v&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 # -📛~Nome: Kaique Gabriel Lacerda Camargo
@@ -12,4 +13,3 @@
 ![](https://steamuserimages-a.akamaihd.net/ugc/1826772585313072382/F5C8BB0F64C9028DA04A32FB3945BE031E3E3B05/)
 # -🎮~game style fav: indie
 ![](https://media.tenor.com/g_jk1kI6mgkAAAAC/hollow-knight.gif)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-OHREI_SA8zeQX12SPLjnvbDZmESfrH16g&s)
