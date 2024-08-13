@@ -12,3 +12,4 @@
 ![](https://steamuserimages-a.akamaihd.net/ugc/1826772585313072382/F5C8BB0F64C9028DA04A32FB3945BE031E3E3B05/)
 # -🎮~game style fav: indie
 ![](https://media.tenor.com/g_jk1kI6mgkAAAAC/hollow-knight.gif)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-OHREI_SA8zeQX12SPLjnvbDZmESfrH16g&s)
