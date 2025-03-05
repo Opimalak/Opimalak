@@ -1,10 +1,10 @@
 # 👋 Olá, eu sou o Kaique!
 
-💻 Estudante do Técnico em Desenvolvimento de Sistemas | 🚀  por tecnologia e programação  
+💻 Estudante do Técnico em Desenvolvimento de Sistemas
 🎯 Sempre em busca de novos conhecimentos  
 🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.
 
-<img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600"> <!-- Coloque seu GIF aqui! -->
+<img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
 ## 🛠 Tecnologias & Ferramentas
 
@@ -25,9 +25,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)  
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaiqueglacerda@outlook.com)
-
----
-
-💡 **Fato curioso:** Eu também sou apaixonado por [Hobby ou Interesse].   
-🚀 **Meta atual:** Melhorar minhas habilidades em **[Tecnologia ou Framework]** e contribuir mais para projetos open-source.
+🚀 **Meta atual:** Melhorar minhas habilidades atuais e adquirir novas!
 
