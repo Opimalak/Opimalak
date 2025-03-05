@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Kaique!
 
-💻 Técnico em Desenvolvimento de Sistemas | 🚀 Apaixonado por tecnologia e programação  
-🎯 Sempre buscando aprender mais sobre novas ferramentas e melhorar minhas habilidades.  
-🌱 Atualmente aprendendo mais sobre **JavaScript** e **Frameworks Frontend**.
+💻 Estudante do Técnico em Desenvolvimento de Sistemas | 🚀  por tecnologia e programação  
+🎯 Sempre em busca de novos conhecimentos  
+🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.
 
 !<img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="900"> <!-- Coloque seu GIF aqui! -->
 
@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ReactNative](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📌 Projetos
 
