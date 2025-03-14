@@ -20,6 +20,7 @@
 🔹 [JavaScript](https://github.com/Kaique-Lacerda/JAVA_SCIRPT)  
 🔹 [Python](https://github.com/Kaique-Lacerda/python)  
 🔹 [HTML5/CSS3](https://github.com/Kaique-Lacerda/html5-css3)
+🔹 [DevAssist](https://github.com/Lucas-dirbal/devAssist)
 
 ## 📫 Como me encontrar
 
