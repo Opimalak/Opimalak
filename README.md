@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Kaique!
 
-💻 Estudante do Técnico em Desenvolvimento de Sistemas.<br>
-🎯 Sempre em busca de novos conhecimentos.<br>
-🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.<br>
-👥 Co-criadordo projeto **DevAssist**.
+<p>💻 Estudante do Técnico em Desenvolvimento de Sistemas.</p>
+<p>🎯 Sempre em busca de novos conhecimentos.</p>
+<p>🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.</p>
+<p>👥 Co-criadordo projeto **DevAssist**.</p>
 
 <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
