@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Kaique!
 
-<p>💻 Estudante do Técnico em Desenvolvimento de Sistemas.</p>
-<p>🎯 Sempre em busca de novos conhecimentos.</p>
-<p>🌐 Atualmente aprendendo mais sobre <b>JavaScript</b>,  <b>Python</b> e <b>MySQL</b>.</p>
-<p>👥 Co-criadordo projeto <b>DevAssist</b>.</p>
+💻 Estudante do Técnico em Desenvolvimento de Sistemas.   
+🎯 Sempre em busca de novos conhecimentos.  
+🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.  
+👥 Co-criadordo projeto **DevAssist**.  
 
 <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
@@ -20,8 +20,8 @@
 
 🔹 [JavaScript](https://github.com/Kaique-Lacerda/JAVA_SCIRPT)  
 🔹 [Python](https://github.com/Kaique-Lacerda/python)  
-🔹 [HTML5/CSS3](https://github.com/Kaique-Lacerda/html5-css3)
-🔹 [DevAssist](https://github.com/Lucas-dirbal/devAssist)
+🔹 [HTML5/CSS3](https://github.com/Kaique-Lacerda/html5-css3)  
+🔹 [DevAssist](https://github.com/Lucas-dirbal/devAssist)  
 
 ## 📫 Como me encontrar
 
