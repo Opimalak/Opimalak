@@ -3,7 +3,7 @@
 💻 Estudante do Técnico em Desenvolvimento de Sistemas.<br>
 🎯 Sempre em busca de novos conhecimentos.<br>
 🌐 Atualmente aprendendo mais sobre **JavaScript**,  **Python** e **MySQL**.
-
+👥 Co-criadordo projeto **DevAssist**
 <img src="https://media.tenor.com/g3y2q5VQxvAAAAAM/cat-computer.gif" alt="Meu GIF" width="600">
 
 ## 🛠 Tecnologias & Ferramentas
