@@ -17,9 +17,9 @@
 
 ## 📌 Projetos
 
-🔹 [Train JS](https://github.com/Kaique-Lacerda/JAVA_SCIRPT)  
-🔹 [Train PY](https://github.com/Kaique-Lacerda/python)  
-🔹 [Train HTML5/CSS3](https://github.com/Kaique-Lacerda/FLEX-BOX)
+🔹 [JavaScript](https://github.com/Kaique-Lacerda/JAVA_SCIRPT)  
+🔹 [Python](https://github.com/Kaique-Lacerda/python)  
+🔹 [HTML5/CSS3](https://github.com/Kaique-Lacerda/html5-css3)
 
 ## 📫 Como me encontrar
 
